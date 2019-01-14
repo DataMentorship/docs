@@ -11,3 +11,7 @@ Mentees are selected according to mentor availability, with focus on minorities 
 ## Current mentors
 
 - Beto Dealmeida (Facebook, Lyft)
+
+## Current projects
+
+- Website with seasonal forecasts.
